@@ -1,3 +1,7 @@
+# Author: Irene Wallis
+# Email: irene@cubicearth.nz
+# License: Apache2
+
 def dip2strike(dipaz):
     """Convert dip-dipazimuth data to strike using the right-hand rule
 
